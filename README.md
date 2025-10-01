@@ -295,5 +295,6 @@ Ready to streamline your workflows with custom AI solutions? I specialize in bui
 
 Let's discuss how AI can transform your business processes and save you valuable time.
 
-[📧 Get in touch](mailto:contact@example.com) to explore custom AI solutions for your needs!
+[📧 Get in touch](mailto:survemrunal94@gmail.com.com) or [💼 Connect with me on LinkedIn](https://www.linkedin.com/in/mrunal-surve-iimi/) to explore custom AI solutions for your needs!
+
 ```
