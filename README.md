@@ -28,7 +28,7 @@ I’m passionate about using technology to reduce administrative burden, improve
 **Key Features:**
 - Smart Query Handling: Determines if a question is relevant to lab testing. If not, it politely declines, keeping the interaction focused.
 - Contextual Memory: Remembers follow-up questions (e.g., linking “turnaround time” to the previously asked CDT test).
-- Retrieval-Augmented Generation (RAG): Connects directly to the LifeLabs test directory vector database, ensuring responses are always grounded in official documentation.
+- Retrieval-Augmented Generation (RAG): Connects directly to the official test directory, ensuring responses are always grounded in official documentation.
 - Interactive Chat Mode: Provides an experience similar to asking a supervisor, but with instant accuracy and consistency.
 
 [🔗 Try it out](https://app.mindstudio.ai/agents/mytestcompass-f9d9b9e5/remix)
