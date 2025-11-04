@@ -31,9 +31,9 @@ I’m passionate about using technology to reduce administrative burden, improve
 - Retrieval-Augmented Generation (RAG): Connects directly to the official test directory, ensuring responses are always grounded in official documentation.
 - Interactive Chat Mode: Provides an experience similar to asking a supervisor, but with instant accuracy and consistency.
 
-[🔗 Try it out](https://app.mindstudio.ai/agents/mytestcompass-f9d9b9e5/remix)
+[🔗 Try it out](https://n8n.mrunalsurve.com/workflow/TGyTLoH41v5sjbkJ)
 
-[🔗 Demo Recording](https://youtu.be/aU5FlXLa9fY)
+[🔗 Demo Recording](https://youtu.be/5gzAFkzjwxk)
 
 ---
 
