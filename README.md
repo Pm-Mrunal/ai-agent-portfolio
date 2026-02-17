@@ -50,7 +50,7 @@ I’m passionate about using technology to reduce administrative burden, improve
 
 [🔗 Try it out](https://app.mindstudio.ai/agents/reddit-sentiment-analyzer-d97ed010/remix)
 
-[🔗 Demo Recording](https://youtu.be/eKg9PIfJFS8)
+[🔗 Demo Recording](https://youtu.be/kUGmVzd8Nzs)
 
 ---
 
