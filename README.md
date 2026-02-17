@@ -15,6 +15,8 @@ Beyond my role at LifeLabs, where I manage consumer platforms like MyCareCompass
 
 I’m passionate about using technology to reduce administrative burden, improve outcomes, and create healthcare experiences that truly serve patients, providers, and systems alike.
 
+[📧 Book a 1:1](https://calendly.com/pmmrunal/30min)
+
 ---
 
 ## 🚀 Featured AI Agents
@@ -295,6 +297,7 @@ Ready to streamline your workflows with custom AI solutions? I specialize in bui
 
 Let's discuss how AI can transform your business processes and save you valuable time.
 
-[📧 Get in touch](mailto:survemrunal94@gmail.com.com) or [💼 Connect with me on LinkedIn](https://www.linkedin.com/in/mrunal-surve-iimi/) to explore custom AI solutions for your needs!
+[📧 Book a 1:1](https://calendly.com/pmmrunal/30min) or [💼 Connect with me on LinkedIn](https://www.linkedin.com/in/mrunal-surve-iimi/) to explore custom AI solutions for your needs!
+
 
 ```
